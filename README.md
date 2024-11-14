@@ -2,5 +2,5 @@
 
 ### run fastapi -fastapi dev main.py
 
-#### ของโคตรดีควรอ่าน
-- Blog: https://mikelopster.dev/posts/fastapi-basic 
+### โคตรดีควรอ่าน
+- #### Blog: https://mikelopster.dev/posts/fastapi-basic 
