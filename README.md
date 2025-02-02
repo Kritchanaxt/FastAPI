@@ -1,6 +1,7 @@
 # FastAPI
 
-### Run fastapi -fastapi dev main.py
+### Run fastapi 
+- fastapi dev main.py
 
 ### SQLAlchemy ORM: https://docs.sqlalchemy.org/en/20/orm/quickstart.html
 
